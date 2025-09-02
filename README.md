@@ -120,7 +120,8 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](dashboard)
+![Vendor Performance Dashboard](dashboard/Dashboard.png)
+
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
